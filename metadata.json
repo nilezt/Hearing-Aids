@@ -1,0 +1,6 @@
+{
+  "name": "AcoustiTune Audio & Hearing DSP Lab",
+  "description": "Architectural benchmark, interactive audiogram hearing test, and real-time DSP noise cancellation & frequency loss compensation engine for Android.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
